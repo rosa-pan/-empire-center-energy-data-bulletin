@@ -1,4 +1,4 @@
-# -empire-center--data-bulletin
+# -empire-center-energy-data-bulletin
 
 # Energy Bulletin Automation
 
