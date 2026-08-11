@@ -164,8 +164,7 @@ Download:
 **Residential Natural Gas Price dataset**
 
 Source:
-https://www.eia.gov/
-
+https://www.eia.gov/naturalgas/monthly/
 Save as:
 
 ```text
