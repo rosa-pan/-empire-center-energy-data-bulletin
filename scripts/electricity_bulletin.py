@@ -14,7 +14,7 @@ import us
 #read the data
 
 raw = pd.read_csv(
-    "/content/Average_retail_price_of_electricity (1).csv",
+    "data/electricity/average_retail_price_of_electricity.csv",
     skiprows=4
 )
 
