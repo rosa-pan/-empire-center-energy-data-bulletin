@@ -12,7 +12,7 @@ import pandas as pd
 import us
 
 gas = pd.read_excel(
-    "/content/Natural Gas Data Aug 2026.xls",
+    "data/natural-gas/average_residential_price_natural_gas.xls",
     sheet_name="Data 1"
 )
 
